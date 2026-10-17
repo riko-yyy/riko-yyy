@@ -50,4 +50,5 @@ C#・.NETでのWebサービス開発を軸に、**システム・組織・事業
 ### 🔗 Links
 
 - X: [@riko_yyy](https://x.com/riko_yyy)
-- note: [riko_yyy](https://note.com/riko_yyy) — キャリア・マネジメント・技術検証の記事
+- note: [riko_yyy](https://note.com/riko_yyy) — キャリア・マネジメントの記事
+- Zenn: [riko_yyy](https://zenn.dev/riko_yyy) — 技術検証の記事
